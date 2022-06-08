@@ -18,3 +18,30 @@ This helps to download videos from youtube and convert them to mp3 if desired.
 4. Copy the windows script to your desktop or any location where you want it to be.
 5. Edit the windows script by changing the script location.
 6. Execute the script and voila! 
+
+## User Interface 
+
+![image](https://user-images.githubusercontent.com/51715986/172547708-42edd889-79a2-499b-a0d2-6e47d5bccd9c.png)
+
+Enter the video url
+
+![image](https://user-images.githubusercontent.com/51715986/172548163-09bf7a5f-d129-461b-ba3b-e294a0f52621.png)
+
+See the video details and choose to download the video
+
+![image](https://user-images.githubusercontent.com/51715986/172548304-672e24f6-a815-402e-a348-4dd6124ac63b.png)
+
+Choose to convert the video to mp3 or just keep the mp4 
+
+![image](https://user-images.githubusercontent.com/51715986/172548499-10acbfad-70fb-47f2-a230-5936db0d4639.png)
+
+Converting to mp3
+
+![image](https://user-images.githubusercontent.com/51715986/172548622-123a0d5a-9490-445f-8fb0-77e0a72c1116.png)
+
+Finally it should open the folder where the video was downloaded
+
+## To contribute, send an email to youtan.info@gmail.com :)
+
+
+
